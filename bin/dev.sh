@@ -10,5 +10,6 @@ npm run build
 popd
 
 pushd backend
+npm install
 npm run dev
-
+popd

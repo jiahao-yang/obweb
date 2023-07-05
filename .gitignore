@@ -1,5 +1,5 @@
+obweb_spg.pem
 *.log
-run.sh
 backend/config/production.json
 backup/
 target/
