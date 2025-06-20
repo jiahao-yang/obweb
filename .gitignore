@@ -1,3 +1,5 @@
+test-debug.js
+.vscode
 obweb_spg.pem
 *.log
 backend/config/production.json
